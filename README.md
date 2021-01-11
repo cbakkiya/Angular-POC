@@ -37,3 +37,4 @@ Angular CRUD operations
   * Delete
 
 ![picture](./src/assets/CRUD.gif)
+# Angulat-POC
