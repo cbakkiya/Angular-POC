@@ -38,3 +38,4 @@ Angular CRUD operations
 
 ![picture](./src/assets/CRUD.gif)
 # Angulat-POC
+# Angular-POC
